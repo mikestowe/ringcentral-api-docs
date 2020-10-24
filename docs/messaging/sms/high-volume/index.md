@@ -2,7 +2,7 @@
 
 RingCentral's High Volume SMS APIs allow you to send a large number of SMS texts from a single number using a single API request using phone numbers that meet the wireless industry guidelines for commerical SMS. This can be used for popular use cases such as appointment reminders, marketing campaigns, password resets, etc. Thus, High Volume SMS enables Application-to-Person (A2P) text messaging.
 
-RingCentral supports High Volume SMS with both local numbers and toll free numbers.
+RingCentral supports High Volume SMS with enabled local and toll free numbers.
 
 High Volume SMS supports the following key features:
 
