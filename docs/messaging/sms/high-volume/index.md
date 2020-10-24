@@ -4,6 +4,8 @@ RingCentral's High Volume SMS APIs allow you to send a large number of SMS texts
 
 RingCentral supports High Volume SMS with both local numbers and toll free numbers.
 
+!!! note "High Volume SMS enabled numbers are charged per message.  [See message pricing](https://developers.ringcentral.com/api-products/sms)."
+
 High Volume SMS supports the following key features:
 
 * [Sending at high volumes per phone number](./sending-highvolume-sms)
